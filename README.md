@@ -1,6 +1,6 @@
 # CSS-Minifier
 
-A simple standalone CSS Minifier.
+A standalone CSS Minifier webapp.
 
 Latest version: 0.9.0
 
