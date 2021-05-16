@@ -6,6 +6,7 @@ Latest version: 0.9.0
 
 Date: 021-05-16T19:05:02.163Z
 
+## Screenshot
 
 ![screenshot](https://github.com/Serrin/CSS-Minifier/blob/main/minifier-0.9.0.app.png)
 
