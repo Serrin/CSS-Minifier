@@ -4,7 +4,7 @@ A standalone CSS Minifier webapp.
 
 Latest version: 0.9.1
 
-Date: 021-05-16T19:05:02.163Z
+Date: 021-05-16T21:05:02.163Z
 
 ## Screenshot
 
