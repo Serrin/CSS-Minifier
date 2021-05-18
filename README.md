@@ -2,13 +2,13 @@
 
 A standalone CSS Minifier webapp.
 
-Latest version: 0.9.1
+Latest version: 0.9.2
 
-Date: 2021-05-16T21:05:02.163Z
+Date: 2021-05-18T07:43:00.810Z
 
 ## Screenshot
 
-![screenshot](https://github.com/Serrin/CSS-Minifier/blob/main/minifier-0.9.1-app.png)
+![screenshot](https://github.com/Serrin/CSS-Minifier/blob/main/minifier-0.9.2.app.png)
 
 ## License
 
